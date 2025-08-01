@@ -1,0 +1,38 @@
+{
+  "name": "sa-visualizer",
+  "version": "1.0.0",
+  "description": "Herramienta de visualización de alineamientos de secuencias con arquitectura de capas",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "lint": "eslint js/**/*.js",
+    "lint:fix": "eslint js/**/*.js --fix",
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"Build completed\"",
+    "sonar": "sonar-scanner"
+  },
+  "keywords": [
+    "bioinformatics",
+    "sequence-alignment",
+    "visualization",
+    "mvc-architecture",
+    "javascript"
+  ],
+  "author": "SA Visualizer Team",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/sa-visualizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/sa-visualizer/issues"
+  },
+  "homepage": "https://github.com/your-username/sa-visualizer#readme"
+} 
