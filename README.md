@@ -169,25 +169,24 @@ sa-visualizer/
 
 ## Puntuación Esperada
 
-### 1. Calidad de Código Fuente - Sonarqube (2/2 puntos)
+### 1. Calidad de Código Fuente - Sonarqube 
 - ✅ Sin Code Smells, Bugs o Vulnerabilidades Bloqueantes
 - ✅ Sin problemas Críticos
 - ✅ Sin problemas Graves
 - ✅ Solo problemas Minor o Info (máxima puntuación)
 
-### 2. Arquitectura de Software (2/2 puntos)
+### 2. Arquitectura de Software 
 - ✅ Capas: Presentación, Aplicación, Dominio y Repositorio
 - ✅ Patrón MVC implementado correctamente
 - ✅ Separación clara de responsabilidades
 - ✅ Inyección de dependencias
 
-### 3. Tecnologías de Software de Visualización (2/2 puntos)
+### 3. Tecnologías de Software de Visualización 
 - ✅ HTML + JS + frameworks/bibliotecas web gráficas
 - ✅ Uso de estrategia de visualización de datos
 - ✅ MSABrowser para visualización especializada
 - ✅ Interfaz responsiva y moderna
 
-**Total Esperado: 6/6 puntos (Máxima puntuación)**
 
 ## Contribución
 
@@ -203,6 +202,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## Contacto
 
-- Proyecto: [https://github.com/your-username/sa-visualizer](https://github.com/your-username/sa-visualizer)
-- Issues: [https://github.com/your-username/sa-visualizer/issues](https://github.com/your-username/sa-visualizer/issues) # visualizadorBio
+- Proyecto: [[https://github.com/your-username/sa-visualizer](https://github.com/your-username/sa-visualizer)](https://github.com/Pev40/visualizadorBio)
 # visualizadorBio
